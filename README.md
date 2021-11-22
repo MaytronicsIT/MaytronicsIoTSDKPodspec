@@ -1,0 +1,2 @@
+# MaytronicsIoTSDKPodspec
+MaytronicsIoTSDK Podspec
